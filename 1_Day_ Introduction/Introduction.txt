@@ -1,0 +1,88 @@
+#1.What is python ?
+> Python is a popular programming language. It was created by Guido van Rossum, and released in 1991.
+Python works on interpreted means,line by line codes are executed.
+If error in any code it will excecute till that line then show error.
+C,c++ ,java works on compiler. compiler runs all code at one time and show errors.
+High level programming language
+Dynamic type of languge.
+Python syntax is compressed.
+
+
+
+#2.Features of python:
+>1.Easy to use and Read -
+ Python's syntax is clear and easy to read, making it an ideal language for both beginners and experienced programmers. This simplicity can lead to faster development and reduce the chances of errors.
+
+2.Dynamically Typed - 
+The data types of variables are determined during run-time. We do not need to specify the data type of a variable during writing codes.
+
+3.High-level - 
+High-level language means human readable code.
+
+4.Compiled and Interpreted - 
+Python code first gets compiled into bytecode, and then interpreted line by line. When we download the Python in our system form org we download the default implement of Python known as CPython. CPython is considered to be Complied and Interpreted both.
+
+
+5.Garbage Collected - 
+Memory allocation and de-allocation are automatically managed. Programmers do not specifically need to manage the memory.
+
+
+6.Purely Object-Oriented -
+ It refers to everything as an object, including numbers and strings.
+
+7.Cross-platform Compatibility -
+ Python can be easily installed on Windows, macOS, and various Linux distributions, allowing developers to create software that runs across different operating systems.
+
+8.Rich Standard Library -
+ Python comes with several standard libraries that provide ready-to-use modules and functions for various tasks, ranging from web development and data manipulation to machine learning and networking.
+
+9.Open Source -
+ Python is an open-source, cost-free programming language. It is utilized in several sectors and disciplines as a result.
+
+
+#3.Application of python:
+>1.Network programming
+2.Data analysis
+3.Robotics
+4.Web app
+5.Desk app
+6.Game developer
+7.Web scrapping
+8.DV
+9.Ai and ML
+10.3d Develpoment
+
+
+#4.Python Popular Frameworks and Libraries:
+Python has wide range of libraries and frameworks widely used in various fields such as machine learning, artificial intelligence, web applications, etc. We define some popular frameworks and libraries of Python as follows.
+
+Web development (Server-side) - Django Flask, Pyramid, CherryPy
+GUIs based applications - Tkinter, PyGTK, PyQt, PyJs, etc.
+Machine Learning - TensorFlow, PyTorch, Scikit-learn, Matplotlib, Scipy, etc.
+
+Mathematics - NumPy, Pandas, etc.
+
+BeautifulSoup: a library for web scraping and parsing HTML and XML
+
+Requests: a library for making HTTP requests
+
+SQLAlchemy: a library for working with SQL databases
+
+Kivy: a framework for building multi-touch applications
+
+Pygame: a library for game development
+
+Pytest: a testing framework for Python Django
+
+REST framework: a toolkit for building RESTful APIs
+
+FastAPI: a modern, fast web framework for building APIs
+
+Streamlit: a library for building interactive web apps for machine learning and data science
+
+NLTK: a library for natural language processing
+
+
+
+#5.Companies using python:
+Google , Netflix , Facebook and Many more!!!!!
